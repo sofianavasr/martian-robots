@@ -1,0 +1,14 @@
+{
+  "name": "martian-test",
+  "version": "1.0.0",
+  "description": "Justos test",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --runInBand"
+  },
+  "author": "Sofía Navas",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
