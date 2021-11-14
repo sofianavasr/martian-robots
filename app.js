@@ -101,7 +101,6 @@ async function main(inputFilePath, outputFilePath) {
       }
 
       lineCount = 0
-    
     }
 
     fileStream.destroy()
